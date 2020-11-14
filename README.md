@@ -3,15 +3,15 @@
 ## Programmers
 ### 1단계   
 ### 2단계
-- [2018 KAKAO BLIND RECRUITMENT [3차] n진수 게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)   
+- [[3차] n진수 게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)   
 
-- [2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-Swift?category=786838)   
+- [[1차] 뉴스 클러스터링](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-Swift?category=786838)   
 
-- [2018 KAKAO BLIND RECRUITMENT[1차] 프렌즈4블록](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT1%EC%B0%A8-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D)  
+- [1차] 프렌즈4블록](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT1%EC%B0%A8-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D)  
 
 - [쿼드압축 후 개수 세기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95-%ED%9B%84-%EA%B0%9C%EC%88%98-%EC%84%B8%EA%B8%B0-Swift)  
 
-- [월간 코드 챌린지 1 이진 변환 반복하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9B%94%EA%B0%84-%EC%BD%94%EB%93%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C1%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-Swift)  
+- [이진 변환 반복하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9B%94%EA%B0%84-%EC%BD%94%EB%93%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C1%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-Swift)  
 
 
 - [짝지어 제거하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-Swift)  

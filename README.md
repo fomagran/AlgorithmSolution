@@ -2,8 +2,9 @@
 
 ## Programmers
 ### 1단계   
-- [모든 레코드 조회하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9B%94%EA%B0%84-%EC%BD%94%EB%93%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C1%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-Swift)  
 #### SQL   
+- [모든 레코드 조회하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9B%94%EA%B0%84-%EC%BD%94%EB%93%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C1%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-Swift)  
+
 
 ### 2단계
 - [[3차] n진수 게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)   

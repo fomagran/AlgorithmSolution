@@ -7,7 +7,7 @@
 
 - [[1차] 뉴스 클러스터링](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-Swift?category=786838)   
 
-- [1차] 프렌즈4블록](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT1%EC%B0%A8-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D)  
+- [[1차] 프렌즈4블록](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT1%EC%B0%A8-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D)  
 
 - [쿼드압축 후 개수 세기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95-%ED%9B%84-%EA%B0%9C%EC%88%98-%EC%84%B8%EA%B8%B0-Swift)  
 

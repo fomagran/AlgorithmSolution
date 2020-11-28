@@ -22,6 +22,10 @@
 
 - [2019 KAKAO BLIND RECRUITMENT 오픈채팅방](https://fomaios.tistory.com/entry/2019-KAKAO-BLIND-RECRUITMENT-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9-Swift?category=786838)  
 
+- [2019 카카오 개발자 겨울 인턴쉽 튜플](https://fomaios.tistory.com/entry/2019-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%A8%EC%9A%B8-%EC%9D%B8%ED%84%B4%EC%89%BD-%ED%8A%9C%ED%94%8C-Swift?category=786838)  
+
+- [2020 카카오 인턴쉽 수식 최대화](https://fomaios.tistory.com/entry/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%9D%B8%ED%84%B4%EC%89%BD-%EC%88%98%EC%8B%9D-%EC%B5%9C%EB%8C%80%ED%99%94-Swift-%ED%92%80%EC%9D%B4-%EB%8D%9C%EC%94%80?category=786838)  
+
 - [이진 변환 반복하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9B%94%EA%B0%84-%EC%BD%94%EB%93%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C1%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-Swift)  
 
 - [짝지어 제거하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-Swift)  
@@ -39,6 +43,12 @@
 - [피보나치 수](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-Swift?category=786838)  
 
 - [행렬의 곱셈](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B3%B1%EC%85%88-Swift?category=786838)  
+
+- [영어 끝말잇기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%81%EC%96%B4-%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0-Swift?category=786838)  
+
+- [타겟 넘버](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84-Swift?category=786838)  
+
+
 
 
 

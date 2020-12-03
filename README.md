@@ -8,17 +8,15 @@
 
 ### 2단계
 
-- [[1차] 뉴스 클러스터링](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-Swift?category=786838)   
+- [2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-Swift?category=786838)   
 
-- [[1차] 프렌즈4블록](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT1%EC%B0%A8-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D)  
+- [2018 KAKAO BLIND RECRUITMENT [1차] 프렌즈4블록](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT1%EC%B0%A8-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D)  
 
-- [[1차] 2018 KAKAO BLIND RECRUITMENT 캐시](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EC%BA%90%EC%8B%9C-Swift?category=786838)  
+- [2018 KAKAO BLIND RECRUITMENT [1차] 캐시](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EC%BA%90%EC%8B%9C-Swift?category=786838)  
 
-- [[3차] n진수 게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)   
+- [2018 KAKAO BLIND RECRUITMENT [3차] n진수 게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)   
 
-- [[3차] 2018 KAKAO BLIND RECRUITMENT 압축](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)   
-
-- [쿼드압축 후 개수 세기](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-%EC%95%95%EC%B6%95-Swift)  
+- [2018 KAKAO BLIND RECRUITMENT [3차] 2018 KAKAO BLIND RECRUITMENT 압축](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-Swift)   
 
 - [2019 KAKAO BLIND RECRUITMENT 오픈채팅방](https://fomaios.tistory.com/entry/2019-KAKAO-BLIND-RECRUITMENT-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9-Swift?category=786838)  
 
@@ -27,6 +25,8 @@
 - [2019 KAKAO BLIND RECRUITMENT 후보키](https://fomaios.tistory.com/entry/2019-KAKAO-BLIND-RECRUITMENT-%ED%9B%84%EB%B3%B4%ED%82%A4-Swift)  
 
 - [2020 카카오 인턴쉽 수식 최대화](https://fomaios.tistory.com/entry/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%9D%B8%ED%84%B4%EC%89%BD-%EC%88%98%EC%8B%9D-%EC%B5%9C%EB%8C%80%ED%99%94-Swift-%ED%92%80%EC%9D%B4-%EB%8D%9C%EC%94%80?category=786838)  
+
+- [쿼드압축 후 개수 세기](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-3%EC%B0%A8-%EC%95%95%EC%B6%95-Swift)  
 
 - [이진 변환 반복하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9B%94%EA%B0%84-%EC%BD%94%EB%93%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C1%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-Swift)  
 

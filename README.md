@@ -22,9 +22,9 @@
 
 - [2019 KAKAO BLIND RECRUITMENT 오픈채팅방](https://fomaios.tistory.com/entry/2019-KAKAO-BLIND-RECRUITMENT-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9-Swift?category=786838)  
 
-- [2019 카카오 개발자 겨울 인턴쉽 튜플](https://fomaios.tistory.com/entry/2019-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%A8%EC%9A%B8-%EC%9D%B8%ED%84%B4%EC%89%BD-%ED%8A%9C%ED%94%8C-Swift?category=786838)  
-
 - [2019 KAKAO BLIND RECRUITMENT 후보키](https://fomaios.tistory.com/entry/2019-KAKAO-BLIND-RECRUITMENT-%ED%9B%84%EB%B3%B4%ED%82%A4-Swift)  
+
+- [2019 카카오 개발자 겨울 인턴쉽 튜플](https://fomaios.tistory.com/entry/2019-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%A8%EC%9A%B8-%EC%9D%B8%ED%84%B4%EC%89%BD-%ED%8A%9C%ED%94%8C-Swift?category=786838)  
 
 - [2020 카카오 인턴쉽 수식 최대화](https://fomaios.tistory.com/entry/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%9D%B8%ED%84%B4%EC%89%BD-%EC%88%98%EC%8B%9D-%EC%B5%9C%EB%8C%80%ED%99%94-Swift-%ED%92%80%EC%9D%B4-%EB%8D%9C%EC%94%80?category=786838)  
 
@@ -64,17 +64,29 @@
 
 - [카펫](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B9%B4%ED%8E%AB-Swift?category=786838)  
 
+- [위장](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%EC%9E%A5-Swift?category=786838)
 
+- [숫자야구](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC-Swift?category=786838)
+
+- [H-Index](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-H-Index-Swift?category=786838)
 
 
 
 
 ## LeetCode 
 ### Easy   
+- [Climbing Stairs](https://fomaios.tistory.com/entry/Swift-LeetCode-Climbing-Stairs-Easy?category=786838)    
 ### Medium   
 ####    Array   
 - [3Sum](https://fomaios.tistory.com/entry/LeetCode-3Sum) 
 
 - [Find Minimum in Rotated Sorted Array II](https://fomaios.tistory.com/entry/Leecode-Find-Minimum-in-Rotated-Sorted-Array-II-Swift?category=786838)
+
+#### Dynamic Programming    
+
+- [Coin Change](https://fomaios.tistory.com/entry/Swift-LeetCode-Coin-Change-Medium?category=786838)    
+
+
+
 
 ### Hard

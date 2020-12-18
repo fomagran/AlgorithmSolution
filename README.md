@@ -76,7 +76,7 @@
 ## LeetCode 
 
 ### Dynamic Programming   
-- [Climbing Stairs](https://fomaios.tistory.com/entry/Swift-LeetCode-Climbing-Stairs-Easy?category=786838)    
+- [Climbing Stairs](https://fomaios.tistory.com/entry/Swift-LeetCode-Climbing-Stairs-Easy?category=786838)      
 - [Coin Change](https://fomaios.tistory.com/entry/Swift-LeetCode-Coin-Change-Medium?category=786838)    
 
 

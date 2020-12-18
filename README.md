@@ -81,7 +81,7 @@
 - [Coin Change](https://fomaios.tistory.com/entry/Swift-LeetCode-Coin-Change-Medium?category=786838)    
 
 
-#### Array   
+### Array   
 - [3Sum](https://fomaios.tistory.com/entry/LeetCode-3Sum) 
 
 - [Find Minimum in Rotated Sorted Array II](https://fomaios.tistory.com/entry/Leecode-Find-Minimum-in-Rotated-Sorted-Array-II-Swift?category=786838)

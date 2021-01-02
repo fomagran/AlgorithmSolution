@@ -88,6 +88,8 @@
 
 - [기능개발](https://fomaios.tistory.com/m/entry/프로그래머스-기능개발-Swift?category=786838)
 
+- [멀쩡한 사각형](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%A9%80%EC%A9%A1%ED%95%9C-%EC%82%AC%EA%B0%81%ED%98%95-Swift)
+
 ## LeetCode 
 
 ### Dynamic Programming   

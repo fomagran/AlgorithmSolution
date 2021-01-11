@@ -7,6 +7,7 @@
  
 ### 1단계   
 
+- [2018 KAKAO BLIND RECRUITMENT [1차] 다트게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84?category=786838)   
 
 ### 2단계
 

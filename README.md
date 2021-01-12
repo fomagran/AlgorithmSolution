@@ -9,6 +9,8 @@
 
 - [2018 KAKAO BLIND RECRUITMENT [1차] 다트게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84?category=786838)   
 
+- [2019 KAKAO BLIND RECUITMENT 실패율](https://fomaios.tistory.com/entry/2019-KAKAO-BLIND-RECUITMENT-Swift?category=786838)   
+
 ### 2단계
 
 - [2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-Swift?category=786838)   

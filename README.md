@@ -28,6 +28,8 @@
 
 - [평균 구하기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0-Swift?category=786838) 
 
+- [콜라츠 추측](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%9C%EB%9D%BC%EC%B8%A0-%EC%B6%94%EC%B8%A1-Swift?category=786838) 
+
 
 
 

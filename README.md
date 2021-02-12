@@ -30,8 +30,7 @@
 
 - [콜라츠 추측](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%9C%EB%9D%BC%EC%B8%A0-%EC%B6%94%EC%B8%A1-Swift?category=786838) 
 
-
-
+- [최대공약수와 최소공배수](https://fomaios.tistory.com/m/entry/프로그래머스-최대공약수와-최소공배수-Swift?category=786838)
 
 ### 2단계
 

@@ -42,6 +42,8 @@
 
 - [자연수 뒤집어 배열로 만들기](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Swift?category=786838)
 
+- [자릿수 더하기](https://fomaios.tistory.com/m/entry/프로그래머스-자릿수-더하기-Swift?category=786838)
+
 ### 2단계
 
 - [2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-Swift?category=786838)   

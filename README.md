@@ -7,9 +7,7 @@
  
 ### 1단계   
 
-- [2018 KAKAO BLIND RECRUITMENT [1차] 다트게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84?category=786838)   
-
-- [2019 KAKAO BLIND RECUITMENT 실패율](https://fomaios.tistory.com/entry/2019-KAKAO-BLIND-RECUITMENT-Swift?category=786838)   
+- [2018 KAKAO BLIND RECRUITMENT [1차] 다트게임](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84?category=786838)   - [2019 KAKAO BLIND RECUITMENT 실패율](https://fomaios.tistory.com/entry/2019-KAKAO-BLIND-RECUITMENT-Swift?category=786838)   
 
 
 - [2018 KAKAO BLIND RECUITMENT 1차 비밀지도](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2?category=786838)   

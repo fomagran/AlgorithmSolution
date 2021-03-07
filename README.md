@@ -48,6 +48,8 @@
 
 - [약수의 합](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9-Swift?category=786838)
 
+- [시저 암호](https://fomaios.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8-Swift?category=786838)
+
 ### 2단계
 
 - [2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링](https://fomaios.tistory.com/entry/2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-Swift?category=786838)   
